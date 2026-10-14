@@ -1,86 +1,40 @@
 # Global Unmployment and Economic Trend Analysis
 
 ## Project Overview
-
-This project analyzes global employment and economic trends across multiple countries using data analytics and visualization techniques. The analysis focuses on GDP growth, total unemployment, and youth unemployment trends from 2017 to 2024.
-
-The project also includes a simple trend prediction section using Linear Regression to estimate future unemployment trends for India.
-
----
+This project explores GDP growth, total unemployment, and youth unemployment across seven countries from 2017 to 2024 using World Bank data. It uses data analysis and visualization to identify economic patterns and relationships between indicators.
 
 ## Objectives
-
-* Analyze unemployment trends across countries
-* Compare GDP growth patterns
-* Study youth unemployment behavior
-* Identify relationships between economic indicators
-* Perform simple future trend estimation
-
----
+- Analyze unemployment trends across countries.
+- Compare GDP growth patterns.
+- Examine youth unemployment trends.
+- Identify relationships between economic indicators.
 
 ## Dataset Information
-
-* Source: World Bank Dataset
-
-* Countries:
-
-  * Australia
-  * China
-  * Germany
-  * India
-  * Japan
-  * United Kingdom
-  * United States
-
-* Years: 2017–2024
-
-### Indicators Used
-
-* GDP Growth (annual %)
-* Total Unemployment (% of total labor force)
-* Youth Unemployment (% ages 15–24)
-
----
+- **Source:** World Bank
+- **Countries:** Australia, China, Germany, India, Japan, United Kingdom, and United States.
+- **Period:** 2017–2024
+- **Indicators:** GDP growth, total unemployment, and youth unemployment.
 
 ## Technologies Used
-
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Scikit-learn
-* Jupyter Notebook
-
----
+Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
 
 ## Project Workflow
-
-1. Data Collection
-2. Data Cleaning and Preprocessing
+1. Data collection
+2. Data cleaning and preprocessing
 3. Exploratory Data Analysis (EDA)
-4. Correlation Analysis
-5. Trend Prediction using Linear Regression
-6. Conclusion and Insights
-
----
+4. Country-wise trend comparisons and visualization
+5. Correlation analysis
+6. Key findings and conclusions
 
 ## Key Findings
-
-* India showed comparatively higher unemployment levels.
-* Japan maintained lower unemployment levels throughout the dataset.
-* Most countries experienced GDP decline during 2020.
-* Youth unemployment remained higher than total unemployment.
-* Total and youth unemployment showed strong positive correlation.
-
----
+- India showed comparatively higher unemployment levels in the selected dataset.
+- Japan maintained comparatively lower unemployment levels.
+- Most countries experienced a decline in GDP growth during 2020.
+- Youth unemployment was generally higher than total unemployment.
+- Total and youth unemployment showed a strong positive correlation.
 
 ## Limitations
-
-The dataset contains limited yearly observations, so the forecasting section provides basic trend estimation rather than highly accurate prediction.
-
----
+The analysis covers seven countries over eight years, limiting the scope of long-term and global generalizations. Correlation indicates an association between indicators, not causation.
 
 ## Future Scope
-
-Future work can include larger datasets, additional economic indicators, and advanced forecasting models for deeper analysis.
+The analysis can be extended by including more countries, additional economic indicators, and longer time periods.
