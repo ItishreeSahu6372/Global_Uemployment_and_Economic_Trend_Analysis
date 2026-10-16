@@ -1,7 +1,7 @@
 # Global Unmployment and Economic Trend Analysis
 
 ## Project Overview
-This project explores GDP growth, total unemployment, and youth unemployment across seven countries from 2017 to 2024 using World Bank data. It uses data analysis and visualization to identify economic patterns and relationships between indicators.
+This project analyzes GDP growth, total unemployment, and youth unemployment across seven countries from 2017 to 2024 using World Bank data. The goal is to identify economic trends, compare unemployment patterns, and examine relationships between economic indicators.
 
 ## Objectives
 - Analyze unemployment trends across countries.
@@ -10,7 +10,7 @@ This project explores GDP growth, total unemployment, and youth unemployment acr
 - Identify relationships between economic indicators.
 
 ## Dataset Information
-- **Source:** World Bank
+- **Source:** [World Bank Open Data](https://data.worldbank.org/)
 - **Countries:** Australia, China, Germany, India, Japan, United Kingdom, and United States.
 - **Period:** 2017–2024
 - **Indicators:** GDP growth, total unemployment, and youth unemployment.
